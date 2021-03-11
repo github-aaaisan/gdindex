@@ -5,7 +5,7 @@
         <div class="control">
           <div class="tags has-addons">
             <span class="tag is-dark">
-              Copy &copy; &nbsp;
+              Powered by
 <!--              <span class="icon">-->
 <!--                <i class="fa fa-github"></i>-->
 <!--              </span>-->
