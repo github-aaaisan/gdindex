@@ -4,22 +4,13 @@
       <div class="field is-grouped is-grouped-multiline">
         <div class="control">
           <div class="tags has-addons">
-            <span class="tag is-dark">
+            <span class="tag is-light">
               Powered by
-<!--              <span class="icon">-->
-<!--                <i class="fa fa-github"></i>-->
-<!--              </span>-->
             </span>
             <a
-              class="tag is-light"
+              class="tag is-dark"
               href="https://since70.com"
             >Since70</a>
-<!--            <span class="tag is-light">-->
-<!--              Copy &copy; &nbsp;-->
-<!--              <span class="icon">-->
-<!--                <i class="fa fa-github"></i>-->
-<!--              </span>-->
-<!--            </span>-->
           </div>
         </div>
       </div>
