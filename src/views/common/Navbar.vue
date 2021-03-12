@@ -3,7 +3,7 @@
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item" :href="currgd.id">
-          <h3 class="title is-3 has-text-white">{{ siteName }}</h3>
+          <h3 class="title is-5 has-text-white">{{ siteName }}</h3>
         </a>
         <a
           role="button"
@@ -101,7 +101,7 @@ export default {
   },
   data: function() {
     return {
-      siteName: "",
+      siteName: "Since70's Google Drive",
       param: "",
       currgd: {},
       gds: [],
